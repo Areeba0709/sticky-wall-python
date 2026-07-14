@@ -112,11 +112,11 @@ python StickyWall.py
 
 ### Edit Notes
 
-![Edit Notes](Edit notes.png)
+![Edit Notes](Edit%20notes.png)
 
 ### Complete Notes
 
-![Complete Notes](Complete notes.png)
+![Complete Notes](Complete%20notes.png)
 
 ### Statistics
 
