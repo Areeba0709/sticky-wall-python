@@ -100,47 +100,27 @@ python StickyWall.py
 
 
 
-\## Project Screenshots
+## Project Screenshots
 
+### Home Page
 
+![Home Page](Home_Page.png)
 
-\### Home Page
+### Pin Notes
 
+![Pin Notes](Pin_notes.png)
 
+### Edit Notes
 
-!\[Home Page](S\_screenshots/Home\_Page.png)
+![Edit Notes](Edit notes.png)
 
+### Complete Notes
 
+![Complete Notes](Complete notes.png)
 
-\### Pin Notes
+### Statistics
 
-
-
-!\[Pin Notes](S\_screenshots/Pin\_notes.png)
-
-
-
-\### Edit Notes
-
-
-
-!\[Edit Notes](S\_screenshots/Edit notes.png)
-
-
-
-\### Complete Notes
-
-
-
-!\[Complete Notes](S\_screenshots/Complete notes.png)
-
-
-
-\### Statistics
-
-
-
-!\[Statistics](S\_screenshots/Statistics.png)
+![Statistics](Statistics.png)
 
 \## Future Improvements
 
